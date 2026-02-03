@@ -1,0 +1,4 @@
+com\example\darija\api\JerseyConfig.class
+com\mycompany\jaxrs\translate\JakartaRestConfiguration.class
+com\example\darija\api\TranslateResource.class
+com\mycompany\jaxrs\translate\resources\JakartaEE11Resource.class
