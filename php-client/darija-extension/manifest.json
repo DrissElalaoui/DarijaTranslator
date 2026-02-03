@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Darija Translator",
+  "version": "1.0",
+  "description": "Traduction en darija (arabe)",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "host_permissions": [
+    "http://localhost:8080/*"
+  ]
+}
